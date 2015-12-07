@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/instagramBlue</item>
+        <item name="colorPrimaryDark">@color/instagramDarkBLue</item>
+        <item name="colorAccent">@color/blueAccent</item>
+    </style>
+
+</resources>
